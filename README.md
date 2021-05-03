@@ -8,8 +8,8 @@ I'm a full stack web developer\
 **CONTACT**\
 Address   : Chandpur, Chittagong, Bangladesh\
 Email     : borhan015@gmail.com\
-LinkedIn  : https://www.linkedin.com/in/borhan-uddin-015/\
-Protfolio : https://borhan-protfolio.web.app/
+LinkedIn  : https://www.linkedin.com/in/borhan-uddin-015\
+Protfolio : https://borhan-protfolio.web.app
 
 **SKILLS**\
 Comfortable: JavaScript, ES6, React.js, React Router, HTML5, CSS3, Bootstrap, Material UI, React\

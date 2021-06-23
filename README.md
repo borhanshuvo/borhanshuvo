@@ -24,6 +24,17 @@ I'm a full stack web developer (MERN)\
 👯 I’m finding the job as a web developer\
 🥅 2021 Goals: Learn React Native, Next Js And Angular Js
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://borhan-uddin-portfolio.web.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-https://borhan-uddin-portfolio.web.app/-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/borhan-uddin-015/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@borhanuddin-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:borhan015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-borhan015@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@anandmainali](https://github.com/anandmainali)
+
 **CONTACT**\
 Address   : Chandpur, Chittagong, Bangladesh\
 Email     : borhan015@gmail.com\

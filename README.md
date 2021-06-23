@@ -33,8 +33,6 @@ Tools: Git, Firebase, Heroku, Netlify, VS Code, Chrome Dev Tools
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a> 
 </p>
 
-|---|---|---|---|---|---|---|---|---|
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

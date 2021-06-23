@@ -27,19 +27,11 @@ I'm a full stack web developer (MERN)\
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://borhan-uddin-portfolio.web.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/borhan-uddin-015/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@borhanuddin-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:borhan015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-borhan015@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
-
-**CONTACT**\
-Address   : Chandpur, Chittagong, Bangladesh\
-Email     : borhan015@gmail.com\
-LinkedIn  : https://www.linkedin.com/in/borhan-uddin-015 \
-Portfolio : https://borhan-uddin-portfolio.web.app/
+⭐️ From [@borhanshuvo](https://github.com/borhanshuvo)
 
 **SKILLS**\
 Comfortable: JavaScript, ES6, React.js, Redux, HTML5, CSS3, Bootstrap, Material UI, php.\

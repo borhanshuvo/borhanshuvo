@@ -13,12 +13,6 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
-
-**SKILLS**\
-Comfortable: JavaScript, ES6, React.js, Redux, HTML5, CSS3, Bootstrap, Material UI, php.\
-Familiar: Node.js, Express.js, MongoDB, MySQL\
-Tools: Git, Firebase, Heroku, Netlify, VS Code, Chrome Dev Tools
-
  
 ### Skills
 

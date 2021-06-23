@@ -46,6 +46,10 @@ Tools:
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <p/>
 
+### Github Stats
+
+[![Borhan Uddin GitHub Stats](https://github-readme-stats.vercel.app/api?username=borhanshuvo&show_icons=true&count_private=true)](https://github.com/borhanshuvo)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

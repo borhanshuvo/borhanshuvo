@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Borhan Uddin](https://anandmainali.com.np)
+### Hi there 👋 I'm [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)
 > Full Stack Web Developer (MERN)
 
 

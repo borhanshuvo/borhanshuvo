@@ -27,7 +27,7 @@ I'm a full stack web developer (MERN)\
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/borhan-uddin-015/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@borhan-uddin-015-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/borhan-uddin-015/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@borhanuddin-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:borhan015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-borhan015@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 

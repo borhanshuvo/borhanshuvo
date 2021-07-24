@@ -10,7 +10,6 @@
  <p>
 I am dedicated hard-working team player and excellent knowledge on cutting edge up-to-date web development technologies. Also a self-motivated and enthusiastic web developer. Ability to work with any web development projects and fully integrate my skills for company’s progress.
 </p>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="borhanshuvo" /> </p>
 </div>
  
 ### Skills

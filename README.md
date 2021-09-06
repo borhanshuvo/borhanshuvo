@@ -33,6 +33,7 @@ Familiar:
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></a>
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"></a>
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></a>
+<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"></a>
 </p>
 
 Tools:

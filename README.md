@@ -1,53 +1,73 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+<div align="center">
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px"></p>
+ <br />
+ </br />
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!!
+ </h2>
+</div>
+<div align="center" width="50">
+ <br>
+ <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)b></h2>
+  
+  <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web
+            Development-blue" />
+  <img src="https://img.shields.io/badge/Lives-Dhaka, Bangladesh-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-blue" />
 </p>
 
-### Hi there 👋 I'm [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)
-> Full Stack Web Developer (MERN)
-
-<div>
- <p>
-I am dedicated hard-working team player and excellent knowledge on cutting edge up-to-date web development technologies. Also a self-motivated and enthusiastic web developer. Ability to work with any web development projects and fully integrate my skills for company’s progress.
-</p>
 </div>
  
-### Skills
+ <div align="center">
 
-Comfortable:
-<p>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
- <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter">
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></a>
-</a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></a>
-</p>
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/Rakib544/Rakib544/issues/new"><b>here</b></a><br>
+or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
-Familiar:
-<p>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"></a>
-</p>
+<i>Happy Coding!</i> 😊
 
-Tools:
-<p>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<p/>
+</div>
 
-### Github Stats
+ <i>
+🛠 &nbsp;Tech Stacks
+</i>
+<br />
+<br />
 
-[![Borhan Uddin GitHub Stats](https://github-readme-stats.vercel.app/api?username=borhanshuvo&show_icons=true&count_private=true)](https://github.com/borhanshuvo)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js&logoColor=339933)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=563D7C)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=563D7C)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=materialui&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+ 
+ 
+ 
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activenes</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borhanshuvo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=8" alt="Borhan Uddin" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=borhanshuvo&include_all_commits=true&count_private=true&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Borhan Uddin" width="410" /></p>
+<br><br><br><br><br>
+<div align="center">
+</br>
+</br>
+</br>
+ 
 
 <h3> 🤝🏻 Connect with Me </h3>
 

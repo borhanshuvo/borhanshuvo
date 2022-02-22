@@ -24,6 +24,14 @@
  <i>Happy Coding!</i> 😊
 </div>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: +8801781972210 <br>
+✔ I’m currently Developing projects for **my personal portfolio**<br>
+✔ I’m looking to collaborate with any **Open - Source web development projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within a few seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+
 <i>🛠 &nbsp;Tech Stacks</i>
 <br />
 <br />

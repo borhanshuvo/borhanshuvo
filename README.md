@@ -2,37 +2,29 @@
  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px"></p>
  <br />
  </br />
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!!
- </h2>
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!!</h2>
 </div>
+
 <div align="center" width="50">
  <br>
- <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)b></h2>
-  
-  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web
-            Development-blue" />
+ <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)</b></h2>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web Development-blue" />
   <img src="https://img.shields.io/badge/Lives-Dhaka, Bangladesh-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-blue" />
-</p>
-
+ </p>
 </div>
  
- <div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/Rakib544/Rakib544/issues/new"><b>here</b></a><br>
-or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-
+<div align="center">
+ You have finally discovered my Github profile. <br>
+ Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+ Ask me anything <a href="https://github.com/borhanshuvo/borhanshuvo/issues/new"><b>here</b></a><br>
+ or <a href="mailto:borhan015@gmail.com"><b>email</b></a> me
+ <i>Happy Coding!</i> 😊
 </div>
 
- <i>
-🛠 &nbsp;Tech Stacks
-</i>
+<i>🛠 &nbsp;Tech Stacks</i>
 <br />
 <br />
 
@@ -40,7 +32,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js&logoColor=339933)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=563D7C)&nbsp;
@@ -55,8 +46,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
  
- 
- 
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activenes</b></i></p>
  
@@ -68,7 +57,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 </br>
 </br>
  
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

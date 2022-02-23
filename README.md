@@ -44,6 +44,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js&logoColor=339933)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=563D7C)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=563D7C)&nbsp;
+![React_Query](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=react%20query&logoColor=563D7C)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=materialui&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

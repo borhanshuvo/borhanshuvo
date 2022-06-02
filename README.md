@@ -24,7 +24,8 @@
  <i>Happy Coding!</i> 😊
 </div>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***About me ....***
 
 ✔ Callme: +8801781972210 <br>
 ✔ I’m currently Developing projects for **my personal portfolio**<br>
@@ -56,7 +57,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
  
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activenes</b></i></p>
+<!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activenes</b></i></p> -->
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borhanshuvo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=8" alt="Borhan Uddin" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=borhanshuvo&include_all_commits=true&count_private=true&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Borhan Uddin" width="410" /></p>
